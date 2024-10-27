@@ -1,2 +1,2 @@
-pillow=>9.4.0
-bcrypt=>3.2.2
+pillow>=9.4.0
+bcrypt>=3.2.2
